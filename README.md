@@ -1,4 +1,5 @@
 # Hi 👋, I'm R Nishanth
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🚀+AI+Application+Developer;🧪+CS+Engineering+Student;🔬+Computational+Chemistry+Researcher+🚀" alt="Typing SVG" />
@@ -16,7 +17,7 @@
 * 🎨 Fun fact: **I love contributing to open-source AI libraries and mentoring students in AI!** 💻
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-nishanth-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-nishanth)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nishanth-nishu.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanth-nishu)
 
@@ -60,7 +61,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&theme=radical)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishanth-nishu&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanth-nishu&theme=dracula)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanth-nishu&theme=dracula" width="100%" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishanth-nishu&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 - Research paper accepted at ICMED 2025 on "Japanese-to-English Video Dubbing Using BERT and Open Voice"
