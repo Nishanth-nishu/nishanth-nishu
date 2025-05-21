@@ -49,6 +49,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+
 ### 🗣️ Japanese to English Neural Machine Translation
 - Developed Flask-based translation application achieving 32 BLEU score
 - Optimized inference speed by 35% through quantization
@@ -61,11 +62,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&theme=radical)
 
 ## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanth-nishu&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanth-nishu&theme=dracula&bg_color=20232a&hide_border=true&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF&custom_title=My%20Contribution%20Graph)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanth-nishu&theme=dracula" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanth-nishu&theme=transparent" width="100%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishanth-nishu&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishanth-nishu&theme=github-dark-blue&background=00000000&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 - Research paper accepted at ICMED 2025 on "Japanese-to-English Video Dubbing Using BERT and Open Voice"
