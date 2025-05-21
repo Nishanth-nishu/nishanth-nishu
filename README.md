@@ -12,7 +12,7 @@
 * 🎨 Fun fact: **I love contributing to open-source AI libraries and mentoring students in AI!** 💻
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-nishanth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-nishanth-/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nishanth-nishu.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanth-nishu)
 
@@ -43,23 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 🚀 Highlighted Projects
-
-### 🔬 Molecular Dynamics Analysis of Protein 1a62_A
-- Conducted all-atom molecular dynamics simulations on protein 1a62_A
-- Extracted and analyzed atomic coordinates using Python libraries
-- Employed Linux-based high-performance computing environments
-
-### 🩺 AI-Driven Glycemic Risk Prediction System
-- Built ML model with 88% accuracy for diabetes risk prediction
-- Integrated Gemini AI for personalized lifestyle recommendations
-- Increased user engagement by 50% with AI-powered insights
-
-### 📈 AI-Powered Forex Trading Dashboard
-- Developed end-to-end AI trading system with 62% prediction accuracy
-- Implemented 20+ technical indicators using Pandas & NumPy
-- Created comprehensive signal validation framework
 
 ### 🗣️ Japanese to English Neural Machine Translation
 - Developed Flask-based translation application achieving 32 BLEU score
