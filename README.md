@@ -49,14 +49,19 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+## 🧠 Fields of Interest & Hobbies
 
-### 🗣️ Japanese to English Neural Machine Translation
-- Developed Flask-based translation application achieving 32 BLEU score
-- Optimized inference speed by 35% through quantization
-- Research paper accepted at ICMED 2025
-
-## 📊 GitHub Stats
-![Nishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanth-nishu&show_icons=true&theme=radical)
+```yaml
+name: R Nishanth
+fields_of_interests:
+  [
+    "AI & Machine Learning",
+    "Computational Chemistry",
+    "NLP & Computer Vision",
+    "Healthcare AI",
+  ]
+hobbies: ["Open Source Contributing", "Mentoring", "Cooking", "Exploring New Technologies"]
+```
 
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&theme=radical)
@@ -64,7 +69,7 @@
 ## 📈 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanth-nishu&theme=dracula&bg_color=20232a&hide_border=true&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF&custom_title=My%20Contribution%20Graph)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanth-nishu&theme=transparent" width="100%" />
+[![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=nishanth-nishu&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nishanth-nishu&theme=tokyonight-duo&background=00000000&border=00000000)](https://git.io/streak-stats)
 
