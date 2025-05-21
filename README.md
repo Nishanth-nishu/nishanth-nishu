@@ -66,7 +66,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishanth-nishu&theme=transparent" width="100%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishanth-nishu&theme=github-dark-blue&background=00000000&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishanth-nishu&theme=tokyonight-duo&background=00000000&border=00000000)](https://git.io/streak-stats)
 
 ## 🏆 Achievements
 - Research paper accepted at ICMED 2025 on "Japanese-to-English Video Dubbing Using BERT and Open Voice"
