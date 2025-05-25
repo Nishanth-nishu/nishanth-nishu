@@ -13,7 +13,6 @@
 * 💡 Seeking help with **MLOps and Advanced NLP techniques**
 * 🏆 Continuously improving my **PyTorch & TensorFlow skills**
 * 💬 Ask me about **AI/ML, Computational Chemistry, and Healthcare AI**
-* 📧 Reach me at **nishanth0962333@gmail.com**
 * 🎨 Fun fact: **I love contributing to open-source AI libraries and mentoring students in AI!** 💻
 
 ## 🌐 Connect with Me
