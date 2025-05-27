@@ -16,8 +16,10 @@
 * 🎨 Fun fact: **I love contributing to open-source AI libraries and mentoring students in AI!** 💻
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-nishanth-/)
-[![Portfolio](https://nishanth-nishu.github.io/my_protfolio/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-nishanth-/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://nishanth-nishu.github.io/my_protfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanth-nishu)
 
 ## 🛠️ Tech Stack
