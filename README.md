@@ -7,7 +7,7 @@
 </div>
 
 ## 🔥 About Me
-* 🚀 Currently working as **AI Application Developer Trainee in Oracle apex at prowessiq**
+* 🚀 Currently working as **AI Researcher in Drug discovery**
 * 📚 Exploring **Machine Learning, Deep Learning, NLP, and Computer Vision**
 * 🎯 Looking to collaborate on **Research Projects in AI for Healthcare and Computational Chemistry**
 * 💡 Seeking help with **MLOps and Advanced NLP techniques**
