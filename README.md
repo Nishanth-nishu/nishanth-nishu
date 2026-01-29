@@ -13,7 +13,6 @@
 * 💡 Seeking help with **MLOps and Advanced NLP techniques**
 * 🏆 Continuously improving my **PyTorch & TensorFlow skills**
 * 💬 Ask me about **AI/ML, Computational Chemistry, and Healthcare AI**
-* 🎨 Fun fact: **I love contributing to open-source AI libraries and mentoring students in AI!** 💻
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-nishanth-/)
