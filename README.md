@@ -23,10 +23,6 @@ Background in **distributed systems** (consistent hashing, quorum replication, f
 
 **Open to:** SDE roles in AI/agent infrastructure · ML engineering & LLMOps · research engineering in agentic systems.
 
-<p align="center">
-  <img src="assets/owl-fly.svg" width="100%" alt="An owl with headphones flying across a night sky"/>
-</p>
-
 ## ⚡ Live from GitHub
 
 _Auto-updated every 6 hours by a GitHub Action._
