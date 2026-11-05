@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/owl-hero.svg" width="100%" alt="Neon owl with headphones coding on a laptop"/>
+</p>
+
 <h1 align="center">R Nishanth</h1>
 
 <p align="center">
@@ -18,6 +22,10 @@ I build production-grade **agentic AI systems**: multi-agent orchestration, self
 Background in **distributed systems** (consistent hashing, quorum replication, fault tolerance) and domain work in **healthcare AI, drug discovery and FinTech**.
 
 **Open to:** SDE roles in AI/agent infrastructure · ML engineering & LLMOps · research engineering in agentic systems.
+
+<p align="center">
+  <img src="assets/owl-fly.svg" width="100%" alt="An owl with headphones flying across a night sky"/>
+</p>
 
 ## ⚡ Live from GitHub
 
@@ -76,3 +84,7 @@ LangChain · Hugging Face · MCP · A2A · ReAct · RAG · gRPC · spaCy
 </p>
 
 <p align="center"><i>Build systems that think, heal, and scale — because the future is agentic.</i></p>
+
+<p align="center">
+  <img src="assets/owl-sleep.svg" width="100%" alt="A neon owl sleeping on a branch under the moon, waking and looking around"/>
+</p>
