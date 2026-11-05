@@ -79,7 +79,19 @@ LangChain · Hugging Face · MCP · A2A · ReAct · RAG · gRPC · spaCy
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages"/>
 </p>
 
-<p align="center"><i>Build systems that think, heal, and scale — because the future is agentic.</i></p>
+```python
+class Nishanth:
+    """The owl on the night shift."""
+
+    mantra = "Agents that think. Pipelines that heal. Systems that scale."
+    fuel   = ["black coffee", "clean commits", "curiosity"]
+    vision = "night vision for production incidents"
+
+    def on_call(self):
+        while self.bugs:
+            self.hunt(self.bugs.pop())      # owls don't sleep on bugs
+        self.ship("agentic AI") and self.sleep(hours=0)
+```
 
 <p align="center">
   <img src="assets/owl-sleep.svg" width="100%" alt="A neon owl sleeping on a branch under the moon, waking and looking around"/>
