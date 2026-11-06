@@ -74,9 +74,19 @@ LangChain · Hugging Face · MCP · A2A · ReAct · RAG · gRPC · spaCy
 - 🎤 Presenter, IEEE national-level project expo (2024) · BITS Pilani Hyderabad AI/ML workshop (2024)
 - 🌍 Open-source contributions to PyTorch, DeepChem, LangChain
 
+## 📊 Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nishanth-nishu&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nishanth-nishu&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5&icon_color=00ff41" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-nishu&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=9dffb5" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishanth-nishu&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=9dffb5&currStreakNum=ffffff&sideNums=ffffff&dates=3d8f55" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanth-nishu&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/>
 </p>
 
 ```python
