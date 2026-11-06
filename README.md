@@ -39,7 +39,7 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 23h ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 1d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 1d ago |
 | [**Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling**](https://github.com/Nishanth-nishu/Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling) | Researching joint microstate and conformer generation for pH-dependent molecular | Python | 1d ago |
 | [**glycemico-pred**](https://github.com/Nishanth-nishu/glycemico-pred) | ihub-project for glycemic index prediction | Python | 6d ago |
