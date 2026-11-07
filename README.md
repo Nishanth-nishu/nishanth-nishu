@@ -39,8 +39,8 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 11h ago |
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 1d ago |
+| [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 17h ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 2d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 2d ago |
 | [**Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling**](https://github.com/Nishanth-nishu/Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling) | Researching joint microstate and conformer generation for pH-dependent molecular | Python | 2d ago |
 | [**glycemico-pred**](https://github.com/Nishanth-nishu/glycemico-pred) | ihub-project for glycemic index prediction | Python | 7d ago |
