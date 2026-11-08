@@ -31,7 +31,7 @@ _Auto-updated every 6 hours by a GitHub Action._
 
 <!--START_SECTION:recent-->
 - 🔀 Opened PR [#1](https://github.com/Nishanth-nishu/LMA-Project/pull/1) in [Nishanth-nishu/LMA-Project](https://github.com/Nishanth-nishu/LMA-Project) · <sub>10d ago</sub>
-- 🔀 Opened PR [#1](https://github.com/Manas-7854/LMA-Project/pull/1) in [Manas-7854/LMA-Project](https://github.com/Manas-7854/LMA-Project) · <sub>10d ago</sub>
+- 🔀 Opened PR [#1](https://github.com/Manas-7854/LMA-Project/pull/1) in [Manas-7854/LMA-Project](https://github.com/Manas-7854/LMA-Project) · <sub>11d ago</sub>
 <!--END_SECTION:recent-->
 
 **Recently pushed**
@@ -39,9 +39,9 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 10h ago |
-| [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 1d ago |
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 3d ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 1h ago |
+| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 18h ago |
+| [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 2d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 3d ago |
 | [**Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling**](https://github.com/Nishanth-nishu/Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling) | Researching joint microstate and conformer generation for pH-dependent molecular | Python | 3d ago |
 <!--END_SECTION:repos-->
