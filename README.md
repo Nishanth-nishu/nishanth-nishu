@@ -39,9 +39,9 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 3h ago |
+| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 10h ago |
 | [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 1d ago |
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 2d ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 3d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 3d ago |
 | [**Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling**](https://github.com/Nishanth-nishu/Joint-Microstate-and-Conformer-Generation-for-pH-Dependent-Molecular-Modeling) | Researching joint microstate and conformer generation for pH-dependent molecular | Python | 3d ago |
 <!--END_SECTION:repos-->
