@@ -39,7 +39,7 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 10h ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 17h ago |
 | [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 1d ago |
 | [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 2d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 4d ago |
