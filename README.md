@@ -39,8 +39,8 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**YT_BOTS_AUTOMATION**](https://github.com/Nishanth-nishu/YT_BOTS_AUTOMATION) | For personal use: an AI-powered YouTube Shorts automation bot that transforms dr | TypeScript | 3m ago |
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 2h ago |
+| [**YT_BOTS_AUTOMATION**](https://github.com/Nishanth-nishu/YT_BOTS_AUTOMATION) | For personal use: an AI-powered YouTube Shorts automation bot that transforms dr | Python | 6h ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | TypeScript | 8h ago |
 | [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 3d ago |
 | [**fault-tolerant-pipeline-inference**](https://github.com/Nishanth-nishu/fault-tolerant-pipeline-inference) | Fault-tolerant two-stage pipeline-parallel LLM inference over gRPC. KV-cache-awa | Python | 4d ago |
 | [**penyc_sm_dashboard**](https://github.com/Nishanth-nishu/penyc_sm_dashboard) | — | HTML | 6d ago |
