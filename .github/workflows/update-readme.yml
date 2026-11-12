@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "scripts/update_readme.py"
+      - "scripts/gen_stats.py"
 
 permissions:
   contents: write
@@ -24,12 +25,18 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/update_readme.py
 
+      - name: Render stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_stats.py
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet; then
-            git add README.md
+          git add README.md assets/stats
+          if ! git diff --cached --quiet; then
             git commit -m "chore: refresh live README sections"
             git push
           fi
