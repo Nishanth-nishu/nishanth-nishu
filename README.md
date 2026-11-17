@@ -30,7 +30,7 @@ _Auto-updated every 6 hours by a GitHub Action._
 **Recent activity**
 
 <!--START_SECTION:recent-->
-- 🔀 Opened PR [#2796](https://github.com/pydantic/logfire/pull/2796) in [pydantic/logfire](https://github.com/pydantic/logfire) · <sub>4d ago</sub>
+- 🔀 Opened PR [#2796](https://github.com/pydantic/logfire/pull/2796) in [pydantic/logfire](https://github.com/pydantic/logfire) · <sub>5d ago</sub>
 <!--END_SECTION:recent-->
 
 **Recently pushed**
@@ -38,11 +38,11 @@ _Auto-updated every 6 hours by a GitHub Action._
 <!--START_SECTION:repos-->
 | Repository | What it is | Lang | Updated |
 |---|---|---|---|
-| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | Python | 10h ago |
+| [**insta-bot**](https://github.com/Nishanth-nishu/insta-bot) | for personal use for automating faceless reels on insta | Python | 5h ago |
 | [**Trading_bot_mt5**](https://github.com/Nishanth-nishu/Trading_bot_mt5) | This is a personal trading bot which is created for personal use , any trade mad | Python | 4d ago |
 | [**YT_BOTS_AUTOMATION**](https://github.com/Nishanth-nishu/YT_BOTS_AUTOMATION) | For personal use: an AI-powered YouTube Shorts automation bot that transforms dr | Python | 4d ago |
-| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 4d ago |
-| [**NEXUS-OS-NA-**](https://github.com/Nishanth-nishu/NEXUS-OS-NA-) | NEXUS OS is an open-source, Debian-based AI server operating environment. | — | 4d ago |
+| [**lazy-bot-messQR-seller**](https://github.com/Nishanth-nishu/lazy-bot-messQR-seller) | just lazy or sleepy to sell the morning meals, just automated to lsiten the chat | JavaScript | 5d ago |
+| [**NEXUS-OS-NA-**](https://github.com/Nishanth-nishu/NEXUS-OS-NA-) | NEXUS OS is an open-source, Debian-based AI server operating environment. | — | 5d ago |
 <!--END_SECTION:repos-->
 
 ## 🧠 Selected work
